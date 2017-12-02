@@ -5,3 +5,5 @@ This Software For UI &amp; Web Designers
 - Portable 
 - Lightweight (Only 2 MB Approximate)
 - Simple & Material Color Code Combination 
+# Download Portable Windows exe File 
+ click here https://sourceforge.net/projects/colorcode/
