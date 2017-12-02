@@ -9,3 +9,7 @@ This Software For UI &amp; Web Designers
  click here https://sourceforge.net/projects/colorcode/
 # Direct Download 
  click here https://master.dl.sourceforge.net/project/colorcode/ColorCode%20v2.0.exe
+
+![ScreenShot](https://raw.githubusercontent.com/Anikesh1999/ColorCode/master/screenshots/Home%20Page.png)
+![ScreenShot](https://raw.githubusercontent.com/Anikesh1999/ColorCode/master/screenshots/Change%20Color.png)
+![ScreenShot](https://raw.githubusercontent.com/Anikesh1999/ColorCode/master/screenshots/About%20Page.png)
